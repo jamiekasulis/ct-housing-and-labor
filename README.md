@@ -4,10 +4,10 @@ Data exploration for an article on CT home appreciation and job recovery
 README
 
 Basics
-- Data comes from two locations: The Bureau of Labor Statistics and the Federal Housing Finance
+- Data comes from two locations: The Bureau of Labor Statistics and the Federal Housing Finance Agency
 - Employment data is in the thousands, i.e. 1.6 = 1600
-- FHFA House Price Index data measures average appreciation (increases in price of house)
-  - FHFA data also measures house prices relative to what they were in 1991 (see notes in notebooks)
+- FHFA House Price Index data measures appreciation (increases in price of house)
+  - FHFA data also measures house prices relative to 1991, where 1991 = 100
   
   You can look at the data sets here:
     - https://www.fhfa.gov/DataTools/Downloads/pages/house-price-index-datasets.aspx (All HPI datasets)
